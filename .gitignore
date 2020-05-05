@@ -1,3 +1,4 @@
 *.FCStd1
 /*.sublime-workspace
+*.gcode
 .DS_Store
